@@ -472,33 +472,33 @@ body {
 }
 
 .tech-java {
-    bottom: 30px;
+    top: 30px;
 
-    left: 80px;
+    left: 150px;
 
     animation: floatSmall 5s ease-in-out infinite;
 }
 
 .tech-javascript {
-    bottom: -30px;
+    bottom: 30px;
 
-    left: 80px;
+    left: 150px;
 
     animation: floatSmall 5s ease-in-out infinite;
 }
 
 .tech-spring {
-    bottom: 30px;
+    top: 30px;
 
-    right: 80px;
+    right: 150px;
 
     animation: floatSmall 5s ease-in-out infinite;
 }
 
 .tech-db {
-    bottom: -30px;
+    bottom: 30px;
 
-    right: 80px;
+    right: 150px;
 
     animation: floatSmall 5s ease-in-out infinite;
 }

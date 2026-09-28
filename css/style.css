@@ -490,7 +490,7 @@ body {
 .tech-spring {
     bottom: 30px;
 
-    left: 50px;
+    right: 50px;
 
     animation: floatSmall 5s ease-in-out infinite;
 }

@@ -474,7 +474,7 @@ body {
 .tech-java {
     bottom: 30px;
 
-    left: 50px;
+    left: 80px;
 
     animation: floatSmall 5s ease-in-out infinite;
 }
@@ -482,7 +482,7 @@ body {
 .tech-javascript {
     bottom: -30px;
 
-    left: 50px;
+    left: 80px;
 
     animation: floatSmall 5s ease-in-out infinite;
 }
@@ -490,7 +490,7 @@ body {
 .tech-spring {
     bottom: 30px;
 
-    right: 50px;
+    right: 80px;
 
     animation: floatSmall 5s ease-in-out infinite;
 }
@@ -498,7 +498,7 @@ body {
 .tech-db {
     bottom: -30px;
 
-    right: 50px;
+    right: 80px;
 
     animation: floatSmall 5s ease-in-out infinite;
 }
